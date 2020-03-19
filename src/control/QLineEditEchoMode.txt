@@ -1,0 +1,14 @@
+QlineEdit控件与回显模式
+
+基本功能：输入单行的文本
+
+EchoMode（回显模式）
+
+4种回显模式
+
+1.Normal
+2.NoEcho
+3.Password
+4.PasswordEchoOnEdit
+
+placeholdertext是指在没有输入文本的时候在文本框里面默认显示的文字
